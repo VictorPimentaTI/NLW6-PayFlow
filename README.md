@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="PayFlow" title="PayFlow" src="/assets/screenshots/PayFlow/logofull.png" />
+  <img alt="PayFlow" title="PayFlow" src="/assets/screenshots/logofull.png" />
 </h1>
 
 <p align="center">
@@ -53,12 +53,12 @@ O NLW é uma experiência online com muito conteúdo prático e desafios onde o 
 </p>
 
 <div align="center">
-	<img src="/assets/screenshots/PayFlow/0 - Splash.jpg" width="15%"></img>
-	<img src="/assets/screenshots/PayFlow/1 - Login.jpg" width="15%"></img>
-	<img src="/assets/screenshots/PayFlow/2 - Meus boletos.jpg" width="15%"></img>
-	<img src="/assets/screenshots/PayFlow/3 - Escaneie o código de barras do boleto.jpg" width="15%"></img>
-	<img src="/assets/screenshots/PayFlow/4 - Cadastro boleto.jpg" width="15%"></img>
-	<img src="/assets/screenshots/PayFlow/5 - Meus extratos.jpg" width="15%"></img> 
+	<img src="/assets/screenshots/0 - Splash.jpg" width="15%"></img>
+	<img src="/assets/screenshots/1 - Login.jpg" width="15%"></img>
+	<img src="/assets/screenshots/2 - Meus boletos.jpg" width="15%"></img>
+	<img src="/assets/screenshots/3 - Escaneie o código de barras do boleto.jpg" width="15%"></img>
+	<img src="/assets/screenshots/4 - Cadastro boleto.jpg" width="15%"></img>
+	<img src="/assets/screenshots/5 - Meus extratos.jpg" width="15%"></img> 
 </div>
 
 ---
